@@ -28,20 +28,21 @@ brew 'node'
 # Apps
 cask 'aerial'
 cask 'alfred'
+cask 'angry-ip-scanner'
 cask 'caffeine'
-cask 'discord'
-cask 'docker'
 cask 'dropbox'
 cask 'firefox'
-cask 'google-drive-file-stream'
+cask 'google-chat'
 cask 'google-chrome'
+cask 'google-drive-file-stream'
+cask 'iterm2'
 cask 'java'
-cask 'mysqlworkbench'
-cask 'now'
 cask 'phpstorm'
 cask 'sequel-pro'
 cask 'shuttle'
+cask 'skype'
 cask 'slack'
+cask 'spectacle'
 cask 'sublime-text'
 cask 'vagrant'
 cask 'virtualbox'
@@ -63,9 +64,7 @@ cask 'font-source-serif-pro'
 
 # Install Mac App Store apps
 mas '1Password', id: 1333542190
-mas 'Byword', id: 420212497
-mas 'Deckset', id: 847496013
 mas 'Giphy Capture', id: 668208984
+mas 'Microsoft Remote Desktop 10', id: 1295203466
 mas 'The Unarchiver', id: 425424353
-mas 'Tweetbot', id: 1384080005
 mas 'WhatsApp', id: 1147396723 
