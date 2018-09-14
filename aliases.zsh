@@ -15,7 +15,7 @@ alias randmac="openssl rand -hex 1 | tr '[:lower:]' '[:upper:]' | xargs echo \"o
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
-alias sites="cd $HOME/Sites"
+alias code="cd $HOME/code"
 
 # Laravel
 alias a="php artisan"
