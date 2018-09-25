@@ -22,8 +22,6 @@ brew 'zsh-completions'
 
 # Development
 brew 'php'
-brew 'php71-intl'
-brew 'php71-imagick'
 brew 'mysql'
 brew 'node'
 
@@ -46,6 +44,7 @@ cask 'sequel-pro'
 cask 'shuttle'
 cask 'skype'
 cask 'slack'
+cask 'sonos'
 cask 'spectacle'
 cask 'spotify'
 cask 'sublime-text'
