@@ -18,14 +18,14 @@ brew bundle
 chsh -s $(which zsh)
 
 # Install PHP extensions with PECL
-pecl install imagick
+pecl install memcached imagick
 
 # Install Composer
 curl -sS https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
 
 # Install global Composer packages
-/usr/local/bin/composer global require laravel/installer laravel/spark-installer laravel/valet laravel/envoy
+/usr/local/bin/composer global require laravel/installer laravel/spark-installer laravel/valet
 
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
