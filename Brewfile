@@ -67,7 +67,7 @@ cask 'sonos'
 cask 'spectacle'
 cask 'spotify'
 cask 'sublime-text'
-ask 'the-unarchiver'
+cask 'the-unarchiver'
 cask 'vagrant'
 cask 'virtualbox' # Might need to allow access in Security settings
 cask 'virtualbox-extension-pack'
